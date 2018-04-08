@@ -1,0 +1,14 @@
+{
+    "name": "SubZero",
+    "author": {
+       "name": "Jish",
+       "email": "jish@flashylights.co.uk"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://gitlab.com/celant/SubZero.git"
+    },
+    "entryPoints": [
+        "subzero.js"
+    ]
+}

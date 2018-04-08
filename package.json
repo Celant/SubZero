@@ -1,0 +1,20 @@
+{
+  "name": "subzero",
+  "version": "1.0.0",
+  "description": "A module for FlashyLights/Discoball built for the FATAL CO-OP GAMING community",
+  "main": "subzero.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Celant/SubZero.git"
+  },
+  "author": "Josh Harris <me@celant.co.uk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Celant/SubZero/issues"
+  },
+  "homepage": "https://github.com/Celant/SubZero#readme",
+  "dependencies": {}
+}
